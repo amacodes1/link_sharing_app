@@ -18,7 +18,7 @@ const config: Config = {
     colors: {
       purple500: "#633CFF",
       purple300: "#BEADFF",
-      purple100: " EFEBFF",
+      purple100: "#EFEBFF",
       dark: "#333333",
       gray400: "#737373",
       gray200: "#d9d9d9",
@@ -31,27 +31,27 @@ const config: Config = {
       Instrument_Sans: "Instrument Sans, sans-serif",
     },
 
-    fontSize: {
-      base: "16px",
-      xs: "12px",
-      "13xl": "32px",
-      lgi: "19px",
-      "7xl": "26px",
-      sm: "14px",
-      inherit: "inherit",
-    },
+    // fontSize: {
+    //   base: "16px",
+    //   xs: "12px",
+    //   "13xl": "32px",
+    //   lgi: "19px",
+    //   "7xl": "26px",
+    //   sm: "14px",
+    //   inherit: "inherit",
+    // },
 
-    screens: {
-      mq750: {
-        raw: "screen and (max-width: 750px)",
-      },
-      mq675: {
-        raw: "screen and (max-width: 675px)",
-      },
-      mq450: {
-        raw: "screen and (max-width: 450px)",
-      },
-    },
+    // screens: {
+    //   mq750: {
+    //     raw: "screen and (max-width: 750px)",
+    //   },
+    //   mq675: {
+    //     raw: "screen and (max-width: 675px)",
+    //   },
+    //   mq450: {
+    //     raw: "screen and (max-width: 450px)",
+    //   },
+    // },
   },
 
   plugins: [],
