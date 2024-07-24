@@ -94,7 +94,7 @@ export default function Register() {
         </div>
       </div>
 
-      <div className="block md:hidden">
+      <div className="flex md:hidden">
         <div className="w-full relative bg-background overflow-hidden flex flex-col items-start justify-start pt-8 pb-[126px] pr-0 pl-8 box-border font-Instrument_Sans gap-[64px] leading-[normal] tracking-[normal]">
           <div className="w-[202.5px] flex flex-row items-start justify-start py-0 pr-5 pl-0 box-border gap-[7.5px]">
             <Image
